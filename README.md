@@ -1,2 +1,2 @@
-# apadubb.murnorka.github.io
+# apadubb.github.io
 Промостраница для зверошапок
