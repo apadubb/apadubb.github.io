@@ -427,7 +427,7 @@ footer {
 	}
 
 	& .description {
-		width: 90%;
+		width: 95%;
 		@media (max-width: 768px) {
 			width: 100%;
 		}
