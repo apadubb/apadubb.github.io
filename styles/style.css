@@ -17,8 +17,7 @@
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
-	src: local("PT Root UI"),
-		url("../fonts/pt-root-ui_regular.woff2") format("woff2");
+	src: url("../fonts/pt-root-ui_regular.woff2") format("woff2");
 }
 
 @font-face {
@@ -26,8 +25,7 @@
 	font-weight: 500;
 	font-style: normal;
 	font-display: swap;
-	src: local("PT Root UI"),
-		url("../fonts/pt-root-ui_medium.woff2") format("woff2");
+	src: url("../fonts/pt-root-ui_medium.woff2") format("woff2");
 }
 
 @font-face {
@@ -35,7 +33,7 @@
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
-	src: local("PT Root UI"), url("../fonts/pt-root-ui_bold.woff2") format("woff2");
+	src: url("../fonts/pt-root-ui_bold.woff2") format("woff2");
 }
 
 html {
@@ -279,7 +277,7 @@ h1 {
 
 .hero-caption,
 .name {
-	font-weight: 700;
+	font-weight: 500;
 }
 
 .name {
