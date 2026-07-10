@@ -357,7 +357,7 @@ footer {
 	gap: 1em;
 
 	& .product-info {
-		transform: translateY(-6px);
+		transform: translateY(-4px);
 	}
 
 	& img {
@@ -410,7 +410,7 @@ footer {
 		@media (max-width: 768px) {
 			width: 100%;
 		}
-	}
+	  }
 	}
 
 	& .card-vertical:last-child {
